@@ -1,0 +1,5 @@
+A 2-step process
+- use grab-cc.js to download closed-captions into a json file
+- run the python converter script to concatenate text snippets
+
+You can edit the final text by hand into headers, sections, bullets, etc.
